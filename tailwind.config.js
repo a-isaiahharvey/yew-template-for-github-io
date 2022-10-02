@@ -1,5 +1,5 @@
 module.exports = {
-  content: content: [
+  content: [
         "./src/**/*.rs",
         "./index.html",
         "./src/**/*.html",
